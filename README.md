@@ -1,4 +1,4 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
+<img src="https://i.imgur.com/40hHB7x.png">
 
 <div id="banner" class="cycle-slideshow" data-cycle-slides="> div">
 	<div id="b1">
