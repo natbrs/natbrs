@@ -3,7 +3,7 @@
 <div id="banner" class="cycle-slideshow" data-cycle-slides="> div">
 	<div id="b1">
 		<span>
-			<h1>Seja Bem-Vindo!</h1>
+			<center><h1>Seja Bem-Vindo!</h1></center>
 			<p></p>
 		</span>
 	</div>
