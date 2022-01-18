@@ -7,10 +7,5 @@
 			<p></p>
 		</span>
 	</div>
-	<div id="b2">
-		<span>
-			<h1>Venha Repousar na Tranquilidade!</h1>
-			<p>A Tranquilidade do campo pertinho de Você!</p>
-		</span>
-	</div>
+	
 </div>
