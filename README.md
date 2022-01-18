@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/40hHB7x.png">
+<img src="https://i.imgur.com/gGIcPAc.png">
 
 <div id="banner" class="cycle-slideshow" data-cycle-slides="> div">
 	<div id="b1">
