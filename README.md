@@ -1,5 +1,8 @@
 <!DOCTYPE html>
+<html>
+<head>  </head>
 
+<body>
 
 <img src="https://i.imgur.com/gGIcPAc.png">
 
@@ -12,3 +15,5 @@
 	</div>
 	
 </div>
+</body>
+</html>
