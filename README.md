@@ -31,7 +31,7 @@
                    <li>Teburo APP Game ✍</li>
        </div>
        <div align="center">
-          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dexternatan&hide=TeX&layout=compact)
+          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natbrs&hide=TeX&layout=compact)
        </div>
        <div align="center">      
        <h3 align="center"> Follow Me </h3>
