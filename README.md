@@ -3,7 +3,7 @@
 <div id="banner" class="cycle-slideshow" data-cycle-slides="> div">
 	<div id="b1">
 		<span>
-			<h1>Venha para o Paraíso!</h1>
+			<h1> ✿ Bem-vindo ao meu Jardim! </h1>
 			<p>Venha desfrutar das praias paradisíacas do Nordeste brasileiro!</p>
 		</span>
 	</div>
