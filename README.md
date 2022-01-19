@@ -1,6 +1,7 @@
 <img src="https://i.imgur.com/gGIcPAc.png">
 
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/></a>
+<img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/></a>
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
