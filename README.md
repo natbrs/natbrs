@@ -23,6 +23,6 @@
 	</div>
        <div id="b2">
            <h1> Projects & Planning 💡 </h1>
-			<p>My name is Natan Almeida and I am currently a programming student at Fatec - Zona Leste of São Paulo (Brazil). I develop several projects, including websites and software, using the main languages: JAVA, HTML/CSS, javascript, etc. </p>
+		<p> During my time of performance in my area, I was able to obtain great results in some of my projects. </p>
        </div>
   </div>
