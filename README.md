@@ -18,7 +18,7 @@
 	<div id="b1">
 		<span>
 			<h1> ✿ Bem-vindo ao meu Jardim! </h1>
-			<p>Meu nome é Natan Almeida e atualmente sou estudante programação na Fatec da Zona Leste de São Paulo. Desenvolvo vários projetos, entre WebSites e Softwares, com a utilização das linguagens JAVA, HTML/CSS, Javascript e etc. Para mais informações, acesse meus repositórios. </p>
+			<p>Meu nome é Natan Almeida e atualmente sou estudante programação na Fatec da Zona Leste de São Paulo. Desenvolvo vários projetos, entre websites e softwares, com a utilização das principais linguagens JAVA, HTML/CSS, javascript e etc </p>
 		</span>
 	</div>
 	<div id="b2">
