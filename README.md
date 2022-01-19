@@ -30,9 +30,7 @@
 	           <li>Game Fight Zero in Javascript ✍</li> 
                    <li>Teburo APP Game ✍</li>
        </div>
-       <div align="center">
-       ![Github Stats](https://github-readme-stats.vercel.app/api?username=natbrs&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-       </div>        
+       <div align="center">      
        <h3 align="center"> Follow Me </h3>
            <p align="center">
                <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-                 square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
