@@ -28,9 +28,8 @@
                    <li>Discord Bot of List Music ✍</li>
 	           <li>Game Fight Zero in Javascript ✍</li> 
                    <li>Teburo APP Game ✍</li>
-                   
-             ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natbrs&hide=TeX&layout=compact)
        </div>
+       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natbrs&hide=TeX&layout=compact)
 
 
        <h3 align="center"> Follow Me </h3>
