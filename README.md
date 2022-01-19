@@ -27,6 +27,6 @@
 	           <li>Website/Chatbot Watson ✍</li>
                    <li>Discord Bot of List Music ✍</li>
 	           <li>Java/Animal Game ✍</li> 
-                   <li>Teburo APP ✍</li>
+                   <li>Teburo APP Game ✍</li>
        </div>
   </div>
