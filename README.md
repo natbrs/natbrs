@@ -21,11 +21,5 @@
 			<p>Meu nome é Natan Almeida e atualmente sou estudante de programação na Fatec da Zona Leste de São Paulo. Desenvolvo vários projetos, entre websites e softwares, com a utilização das principais linguagens: JAVA, HTML/CSS, javascript e etc </p>
 		</span>
 	</div>
-	<div id="b2">
-		<span>
-			<h1>Venha Repousar na Tranquilidade!</h1>
-			<p>A Tranquilidade do campo pertinho de Você!</p>
-		</span>
-	</div>
 </div>
 
