@@ -28,7 +28,11 @@
                    <li>Discord Bot of List Music ✍</li>
 	           <li>Game Fight Zero in Javascript ✍</li> 
                    <li>Teburo APP Game ✍</li>
+                   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natbrs&hide=TeX&layout=compact)
+ 
        </div>
+
+
        <h3 align="center"> Follow Me </h3>
            <p align="center">
                <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-                 square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
