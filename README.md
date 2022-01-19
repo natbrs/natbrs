@@ -30,10 +30,6 @@
 	           <li>Game Fight Zero in Javascript ✍</li> 
                    <li>Teburo APP Game ✍</li>
        </div>
-       <div align="center">
-          ![Github Stats](https://github-readme-stats.vercel.app/api?username=natbrs&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-          ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natbrs&hide=TeX&layout=compact)
-       </div>
        <div align="center">      
        <h3 align="center"> Follow Me </h3>
            <p align="center">
