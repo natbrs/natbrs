@@ -24,5 +24,9 @@
        <div id="b2">
            <h1> Projects & Planning 💡 </h1>
 		<p> During my time of performance in my area, I was able to obtain great results in some of my projects. </p>
+
+	       <li>test</li>
+               <li>test</li>
+               <li>test</li>
        </div>
   </div>
