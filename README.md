@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/></a>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/></a>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
 
 <div id="banner" class="cycle-slideshow" data-cycle-slides="> div">
 	<div id="b1">
