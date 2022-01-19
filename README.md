@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/></a>
 <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/json-5E5C5C?style=flat-square&logo=json&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/></a>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/></a>
