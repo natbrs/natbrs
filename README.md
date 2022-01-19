@@ -29,7 +29,7 @@
 	           <li>Game Fight Zero in Javascript ✍</li> 
                    <li>Teburo APP Game ✍</li>
        </div>
-       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?natbrs=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)      
+       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natbrs&layout=compact)](https://github.com/natbrs/github-readme-stats)      
        <h3 align="center"> Follow Me </h3>
            <p align="center">
                <a href=""><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-                 square&logo=Vimeo&logoColor=white&link=https://velog.io/@hyeinisfree"/></a>&nbsp
