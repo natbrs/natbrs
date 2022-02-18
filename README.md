@@ -25,9 +25,8 @@
        <div id="b2">
            <h1> Projects & Planning 💡 </h1>
 		<p> During my time of performance in my area, I was able to obtain great results in some of my projects.</p>
-	           <li>Website/Chatbot Watson ✍</li>
                    <li>Discord Bot of List Music ✍</li>
-	           <li>Game Fight Zero in Javascript ✍</li> 
+	           <li>Grand Chase Fandom Website✍</li> 
                    <li>Teburo APP Game ✍</li>
        </div>
        <div align="center">      
