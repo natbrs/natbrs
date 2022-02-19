@@ -27,9 +27,8 @@
 		<p> Desde mais novo, possuo um grande contato com tecnologia, praticando tanto na parte de software, quanto de hardware, levando essa paixão cada dia mais a diante. Espero poder me aprimorar em minhas habilidades com o tempo, e exercer uma carreira profissional digna.</p>
 	</div>
         <div id="b2">
-		<h2> Meios de Contato </h2>
+		<h1>Contato</h1>
 		<li>natanrezendesp@gmail.com </li>
-                <li>(11) 94393-7757</li>
-              
+                <li>(11) 94393-7757</li>       
 	</div>
     
