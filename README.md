@@ -19,7 +19,7 @@
 	<div id="b1">
 		<span>
 			<h1> ✿ Bem-vindo ao meu jardim! </h1>
-			<p>My name is Natan Almeida and I am currently a programming student at Fatec - Zona Leste of São Paulo (Brazil). I develop several projects, including websites and software, using the main languages: JAVA, HTML/CSS, javascript, etc. </p>
+			<p>Meu nome é Natan a atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Técnologia de São Paulo. Sou programador e desenvolvo aplicativos web, software, mobile e etc.  </p>
 		</span>
 	</div>
        <div id="b2">
