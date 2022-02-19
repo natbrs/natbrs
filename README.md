@@ -19,11 +19,11 @@
 	<div id="b1">
 		<span>
 			<h1> ✿ Bem-vindo ao meu jardim! </h1>
-			<p>Meu nome é Natan, sou programador e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Fatec Zona Leste (SP). Tenho grande conhecimento, sobre as áreas de desenvolvimento web, software, mobile e sql.</p>
+			<p>Meu nome é Natan, sou programador e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Fatec Zona Leste (SP). Tenho grande conhecimento, sobre as áreas de desenvolvimento web, software, mobile e SQL.</p>
 		</span>
 	</div>
        <div id="b2">
-           <h1> Projects & Planning 💡 </h1>
+           <h1> Planos e Projetos 💡 </h1>
 		<p> During my time of performance in my area, I was able to obtain great results in some of my projects.</p>
                    <li>Discord Bot of List Music ✍</li>
 	           <li>Grand Chase Fandom Website✍</li> 
