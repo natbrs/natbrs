@@ -19,12 +19,14 @@
 	<div id="b1">
 		<span>
 			<h1> ✿ Bem-vindo ao meu jardim! </h1>
-			<p>Meu nome é Natan, sou programador e atualmente estou cursando: Análise e Desenvolvimento de Sistemas na Fatec Zona Leste (SP). Tenho grande experiência sobre as áreas de desenvolvimento web, software, mobile e SQL.</p>
+			<p>Meu nome é Natan, sou programador e atualmente estou cursando: Análise e Desenvolvimento de Sistemas na Fatec Zona Leste (SP). Sou um apaixonado por tecnológia desde a infância, tendo experiência desde novo, e hoje procuro me aprimorar cada vez em meio  </p>
 		</span>
 	</div>
        <div id="b2">
            <h1> Planos e Projetos 💡 </h1>
-		<p> During my time of performance in my area, I was able to obtain great results in some of my projects.</p>
+		<p> Meu nome é Natan, sou programador e atualmente estou cursando: Análise e Desenvolvimento de Sistemas na Fatec Zona Leste (SP). Tenho grande experiência sobre as áreas de desenvolvimento web, software, mobile e rede, principalmente nas linguagens de programação: java, javascript, HTML & CSS, php e etc. 
+
+Desde mais novo, possuo um grande contato com tecnologia, praticando tanto na parte de software, quanto de hardware, levando essa paixão cada dia mais a diante. Espero poder me aprimorar em minhas habilidades com o tempo, e exercer uma carreira profissional digna.</p>
                    <li>Discord Bot of List Music ✍</li>
 	           <li>Grand Chase Fandom Website✍</li> 
                    <li>Teburo APP Game ✍</li>
