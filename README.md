@@ -19,7 +19,7 @@
 	<div id="b1">
 		<span>
 			<h1> ✿ Bem-vindo ao meu jardim! </h1>
-			<p>Meu nome é Natan a atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade de Técnologia de São Paulo. Sou programador e desenvolvo aplicativos web, software, mobile e etc.  </p>
+			<p>Meu nome é Natan, sou programador e atualmente curso Análise e Desenvolvimento de Sistemas (ADS) na Fatec Zona Leste (SP). Tenho grande conhecimento, sobre as áreas de desenvolvimento web, software, mobile e sql.</p>
 		</span>
 	</div>
        <div id="b2">
