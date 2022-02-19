@@ -19,7 +19,7 @@
 	<div id="b1">
 		<span>
 			<h1> ✿ Bem-vindo ao meu jardim! </h1>
-			<p>Meu nome é Natan, sou programador e atualmente estou cursando: Análise e Desenvolvimento de Sistemas na Fatec Zona Leste (SP). Sou um apaixonado por tecnológia desde a infância, tendo experiência desde novo, e hoje procuro me aprimorar cada vez em meio  </p>
+			<p>Meu nome é Natan, sou programador e atualmente estou cursando: Análise e Desenvolvimento de Sistemas na Fatec Zona Leste (SP). Tenho grande experiência sobre as áreas de desenvolvimento web, software, mobile e rede, principalmente nas linguagens de programação: java, javascript, HTML & CSS, php e etc.   </p>
 		</span>
 	</div>
        <div id="b2">
