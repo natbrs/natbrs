@@ -18,7 +18,7 @@
 <div id="banner" class="cycle-slideshow" data-cycle-slides="> div">
 	<div id="b1">
 		<span>
-			<h1> ✿ Welcome to my Garden! </h1>
+			<h1> ✿ Bem-vindo ao meu jardim! </h1>
 			<p>My name is Natan Almeida and I am currently a programming student at Fatec - Zona Leste of São Paulo (Brazil). I develop several projects, including websites and software, using the main languages: JAVA, HTML/CSS, javascript, etc. </p>
 		</span>
 	</div>
