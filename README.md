@@ -30,6 +30,6 @@
         <div id="b2">
 		<h1>Contato ☎</h1>
 		<li>natanrezendesp@gmail.com </li>
-                <li>(11) 9 4393-7757</li>         
+                <li>(11) 2771-8458</li>         
 	</div>
 <div>
