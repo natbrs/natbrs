@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.imgur.com/gGIcPAc.png">
+<img src="https://i.imgur.com/d7IdsYL.png">
 
 <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github"/></a>
 <img src="https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab"/></a>
