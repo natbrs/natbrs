@@ -22,14 +22,6 @@
 			<p>Meu nome é Natan, sou estudante de programação e atualmente estou cursando: Análise e Desenvolvimento de Sistemas na Fatec Zona Leste (SP). Tenho experiência em algumas áreas de desenvolvimento web, software e mobile, me destacando mais no front-end e back-end.   </p>
 		</span>
 	</div>
-       <div id="b2">
-           <h1> Sobre Mim 🧝‍♂️ </h1>
-		<p> Desde mais novo, possuo um grande contato com tecnologia, praticando tanto na parte de software, quanto de hardware, levando essa paixão cada dia mais a diante. Espero poder me aprimorar em minhas habilidades com o tempo, e exercer uma carreira profissional digna.</p>
-	</div>
-<div align="center">
-        <div id="b2">
-		<h1>Contato ☎</h1>
-		<li>natanrezendesp@gmail.com </li>
-                <li>(11) 2771-8458</li>         
-	</div>
-<div>
+
+       
+		
