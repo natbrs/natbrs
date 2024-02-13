@@ -19,7 +19,7 @@ Feel free to get to know a bit of what I do and follow me if you're interested.
 
 <h4> External means: </h4>
 
- 📭 &emsp; Contact: natan.rezende@gmail.com <br/><br/>
+ 📭 &emsp; Contact: natanrezendesp@gmail.com <br/><br/>
  💬 &emsp; Ask me something [here](https://github.com/alsiam/alsiam/issues)
 
 <a href="">
