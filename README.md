@@ -13,9 +13,6 @@
 Feel free to get to know a bit of what I do and follow me if you're interested.
 
 <p>
- <img align="right" src="https://i.imgur.com/RYpmGzm.png" height="300" width="28%">
-
-
 
 <h4> External means: </h4>
 
