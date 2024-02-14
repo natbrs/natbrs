@@ -19,13 +19,6 @@ Feel free to get to know a bit of what I do and follow me if you're interested.
  📭 &emsp; Contact: natanrezendesp@gmail.com <br/><br/>
  💬 &emsp; Ask me something [here](https://github.com/alsiam/alsiam/issues)
 
-<a href="">
-  <img align="left" alt="anmolpant's Linkdin" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/linkedin.png" />
-</a>
-
-<a href="">
-  <img align="left" alt="anmolpant | Twitter" width="30px" src="https://github.com/anmolpant/anmolpant/blob/master/assets/twitter.png" />
-</a>
-
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/natbrs) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/natbrs)
 
 </p>
