@@ -22,7 +22,7 @@ Feel free to get to know a bit of what I do and follow me if you're interested.
  💬 &emsp; Ask me something [here](https://github.com/alsiam/alsiam/issues)
 
 
-<br>[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/natbrs) [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/natbrs) [![Connect on Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/sp_natan)
+<br>[![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/natbrs) [![Connect on Instagram](https://img.shields.io/badge/--instagram?label=Instagram&logo=Instagram&style=social)](https://www.instagram.com/sp_natan)
 
 
 </p>
