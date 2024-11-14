@@ -10,6 +10,6 @@
   
 🪴 Hallo! My name's Natan.
 
-Here I share a bit of my university activities and personal projects that I have been working on over time, some of them involving **web development** and **software development** and other content.
+Here, I share a bit about my university activities and personal projects that I’ve been working on over time. Some of these projects involve developing programs using advanced, object-oriented programming languages.
 
 Feel free to get to know a bit of what I do and follow me if you're interested.
