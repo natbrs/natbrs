@@ -1,5 +1,4 @@
-<div id="banner" class="cycle-slideshow" data-cycle-slides="> div">  </div>
-Hallo! My name's Natan.
+🪴 Hallo! My name's Natan.</br>
 
 Here, I share a little about my learning activities and personal projects that I have been working on over time. Some of these projects involve developing programs using advanced object-oriented programming languages.
 
